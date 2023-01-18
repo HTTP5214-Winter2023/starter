@@ -8,9 +8,9 @@ and learning max msp. All for the purpose of learning to make music in programmi
 Today, I'm going to work on figuring github stuff out.
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
-- i'm confused
-- not sure i cloned git folder properly. will look for help.
 
-## Jan 25th
+- had trouble with creating my own branch, but figured it out.
+
+## Jan 18th
 
 
