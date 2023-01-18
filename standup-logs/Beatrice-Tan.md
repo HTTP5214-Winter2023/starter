@@ -1,8 +1,8 @@
-# Stand-up log for Man View Raymond Lee
+# Stand-up log for Beatrice Tan
 
 ## Jan 16th
 
-Last time, I worked on {stuff you worked on}.
+Last time, I cloned the repository.
 
 Today, I'm going to work on {stuff you're going to work on}.
 
