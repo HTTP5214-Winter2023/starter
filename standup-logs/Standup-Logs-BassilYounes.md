@@ -1,4 +1,6 @@
-Jan 11st
+#Standup-logs Bassil Younes
+
+(I dont really know how this works but im working on Wenbo's file?)
 
 Course Introduction
 
