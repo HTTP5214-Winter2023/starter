@@ -11,6 +11,6 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 - i'm confused
 - not sure i cloned git folder properly. will look for help.
 
-## Jan 18th
+## Jan 25th
 
 
