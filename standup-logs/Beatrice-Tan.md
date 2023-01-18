@@ -2,9 +2,9 @@
 
 ## Jan 16th
 
-Last time, I cloned the repository.
+Last time, I cloned the repository, create a new branch.
 
-Today, I'm going to work on {stuff you're going to work on}.
+Today, I'm going to work on uploading this. Whatever it's called push or pull.
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 
