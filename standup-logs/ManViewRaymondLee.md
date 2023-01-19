@@ -1,4 +1,4 @@
-# Stand-up log for {your name}
+# Stand-up log for Man View Raymond Lee
 
 ## Jan 16th
 
@@ -13,7 +13,7 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 
 ## Jan 18th
 
-Last time, I worked on {stuff you worked on}.
+Last time, I worked on coming up with pain points in web development.
 
 Today, I'm going to work on {stuff you're going to work on}.
 
