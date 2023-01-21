@@ -1,12 +1,21 @@
-#Standup-logs Bassil Younes
+# Stand-up log for Bassil Younes
 
-(I dont really know how this works but im working on Wenbo's file?)
+## Jan 16th
 
-Course Introduction
+Last time, I worked on learning about this course and how to work in collaborative environments 
 
-Jan 18th
+Today, I'm going to work on figuring out my pain points
 
-Learn how about the Agile work flow.
-Learn how to use Git.
-Create Kanban board
-Creat branch and stand up log.
+Here's a list of stuff that's blocking me from moving ahead with my work:
+
+- Keeping notes of my pain points 
+
+## Jan 18th
+
+Last time, I worked on figuring out pain points for the program
+
+Today, I'm going to work on learning how to use git.
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+
+- Actually knowing how git works
