@@ -1,6 +1,8 @@
 # Meeting Notes
 Jan 25
 
+scrum master Andrew Barker
+
 Built Team PlutoJS
 
 Members:
