@@ -1,10 +1,35 @@
-# Group 1
+# Automation 2
+patelharsh397@gmail.com
+Disakrunalsoni@gmail.com
+amipuria19@gmail.com
+tamaraebiukuli@gmail.com
+navdeepkaur200017@gmail.com
+udipmandora42@gmail.com
+azmat.08pathan@gmail.com
 
-# Group 2
+# Automation
+jaclyn_schultz@hotmail.com
+muskan.10151@gmail.com
+patelmanali216@gmail.com
+madiha.altaf@yahoo.com
+darshanvarma030597@gmail.com
+jigarmehta277@gmail.com
 
-# Group 3
+# TEAM C4RBON
+Azmat Pathan, 
+Jigar Mehta, 
+Harshadkumar Patel, 
+Aadrit, 
+Darshan, 
+Muskan, 
+Nency
 
-# Group 4
+# Team Boilerplate
+Wenbo Min,  
+Chan Ka Wing, 
+Stephen Folorunsho, 
+Tamara Ebi-ukuli, 
+Sophia Scott
 
 # Group 5
 
