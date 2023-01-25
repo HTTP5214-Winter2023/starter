@@ -14,3 +14,8 @@ Today, I'm going to work on using Trello and navigating the Kanban board.
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 Understing Git and GitHub.
+
+## Jan 25th
+
+Last week ...
+This week ...
