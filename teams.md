@@ -39,9 +39,3 @@ Carrie Ng,
 Ho Kit Daniel So,
 Tin Wai Vita Cheung,
 Louise Mary Anhance Abrena
-
-# Group 6
-
-# Group 7
-
-# Group 8
