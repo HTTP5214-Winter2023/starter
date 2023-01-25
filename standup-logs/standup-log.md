@@ -1,4 +1,4 @@
-# Stand-up log for {your name}
+# Stand-up log for Sophia
 
 ## Jan 16th
 
