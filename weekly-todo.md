@@ -11,6 +11,7 @@
 
 ## Week 4	
 - Stand-up
+- Complete the [Intro to Git](https://github.com/skills/introduction-to-github) course
 
 ## Week 5	
 - Stand-up
