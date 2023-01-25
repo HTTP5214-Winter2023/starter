@@ -4,21 +4,21 @@
 
 ## Week 3	
 - Retrospective
-- Research time
 - Get into teams
 - Sprint planning
 - Create a new entry in your log file, and get it code-reviewed & merged.
 
 ## Week 4	
 - Stand-up
+- Research solutions (1hr)
 - Complete the [Intro to Git](https://github.com/skills/introduction-to-github) course
 - Create a new entry in your log file, and get it code-reviewed & merged.
 
 ## Week 5	
 - Stand-up
-- Define the team's git workflow
-- Retrospective
-- Sprint planning
+- Research solutions (1hr)
+- Retrospective 
+- Sprint planning (including defining the team's git workflow)
 - Create a new entry in your log file, and get it code-reviewed & merged.
 
 ## Week 6	
