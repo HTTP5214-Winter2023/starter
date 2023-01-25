@@ -15,8 +15,9 @@
 
 ## Week 5	
 - Stand-up
-- Sprint planning
+- Define the team's git workflow
 - Retrospective
+- Sprint planning
 
 ## Week 6	
 - Stand-up
