@@ -31,7 +31,14 @@ Stephen Folorunsho,
 Tamara Ebi-ukuli, 
 Sophia Scott
 
-# Group 5
+# Time Keeper
+Pui Sze Ceci Au,
+Man View Raymond Lee,
+Michelle Parlevliet,
+Carrie Ng,
+Ho Kit Daniel So,
+Tin Wai Vita Cheung,
+Louise Mary Anhance Abrena
 
 # Group 6
 
