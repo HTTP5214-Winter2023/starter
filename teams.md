@@ -39,4 +39,5 @@
 - Carrie Ng,
 - Ho Kit Daniel So,
 - Tin Wai Vita Cheung,
-- Louise Mary Anhance Abrena
+- Louise Mary Anhance Abrena,
+- Wenhao Lu, Kevin
