@@ -4,16 +4,15 @@
 
 Last time, I cloned the repository, create a new branch.
 
-Today, I'm going to work on uploading this. Whatever it's called push or pull.
+Today, I'm going to work on uploading this. I cloned the repository,  created a branch with my name, and made a pull request.
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 
-- cloned the repository
-- create a branch
-- pull request
+- unfamiliar with git / confused 
 
 I have to:
 - merge
+- learn more about git
 
 ## Jan 18th
 
