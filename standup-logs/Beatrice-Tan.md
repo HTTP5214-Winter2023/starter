@@ -1,23 +1,21 @@
-# Stand-up log for Beatrice Tan
+# Stand-up log for Bassil Younes
 
 ## Jan 16th
 
-Last time, I cloned the repository, create a new branch.
+Last time, I worked on learning about this course and how to work in collaborative environments 
 
-Today, I'm going to work on uploading this. Whatever it's called push or pull.
+Today, I'm going to work on figuring out my pain points
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 
-- stuff you're
-- waiting on
+- Keeping notes of my pain points 
 
 ## Jan 18th
 
-Last time, I worked on coming up with pain points in web development.
+Last time, I worked on figuring out pain points for the program
 
-Today, I'm going to work on {stuff you're going to work on}.
+Today, I'm going to work on learning how to use git.
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 
-- stuff you're
-- waiting on
+- Actually knowing how git works
