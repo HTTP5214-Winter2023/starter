@@ -33,27 +33,28 @@ Folorunsho, Stephen I.
 Scott, Sophia L.
 
 ## Time Keeper
-Au, Pui Sze	
-Lee, Man View Raymond	
-Parlevliet, Michelle
-Ng, Carrie K.	
-So, Ho Kit
-Cheung, Tin Wai	
-Abrena, Mary Louise Anhance	
+- Pui Sze Ceci Au,
+- Man View Raymond Lee,
+- Michelle Parlevliet,
+- Carrie Ng,
+- Ho Kit Daniel So,
+- Tin Wai Vita Cheung,
+- Louise Mary Anhance Abrena,
+- Wenhao Lu, Kevin
 
 ## Time Cheaters
-Younes, Bassil	
-Tan, Joan Beatrice	
-Chang, Ellis
-Ho, Kee-Fung Anthony
-Fallahi, Ramin	
+- Younes, Bassil	
+- Tan, Joan Beatrice	
+- Chang, Ellis
+- Ho, Kee-Fung Anthony
+- Fallahi, Ramin	
 
 ## Pluto
-Barker, Andrew 
-Osman, Najib	
-Singh, Shavin
-Suwal, Gajendra B.
-Sarker, Nikhil
+- Barker, Andrew 
+- Osman, Najib	
+- Singh, Shavin
+- Suwal, Gajendra B.
+- Sarker, Nikhil
 
 Feature tracking: VS Code somehow, but also Trello (+ github?)
 Comms channel: WhatsApp, but also Discord

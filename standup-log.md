@@ -1,0 +1,3 @@
+
+cat starter
+git status
