@@ -1,42 +1,59 @@
-# Team
+# Teams
+
 ## Automation 2
-- patelharsh397@gmail.com
-- Disakrunalsoni@gmail.com
+Patel, Harshadkumar G.
+Soni, Disa Krunal
 - amipuria19@gmail.com
-- tamaraebiukuli@gmail.com
-- navdeepkaur200017@gmail.com
-- udipmandora42@gmail.com
-- azmat.08pathan@gmail.com
+Ebi-Ukuli, Tamaralayefa	
+Kaur, Navdeep	
+Mandora, Udip Damjibhai	
+Pathan, Azmat Rashid
 
 ## Automation
-- jaclyn_schultz@hotmail.com
-- muskan.10151@gmail.com
-- patelmanali216@gmail.com
-- madiha.altaf@yahoo.com
-- darshanvarma030597@gmail.com
-- jigarmehta277@gmail.com
+Vergara Schultz, Jaclyn E.
+Patel, Manali A.
+Umair, Madiha
+Varma, Darshan S.
+Mehta, Jigar Rajeshkumar
 
 ## TEAM C4RBON
 - Azmat Pathan, 
 - Jigar Mehta, 
 - Harshadkumar Patel, 
-- Aadrit, 
+Chauhan, Aadrit	
 - Darshan, 
-- Muskan, 
-- Nency
+Aggarwal, Muskan
+Modi, Nency Nileshkumar	
 
 ## Team Boilerplate
-- Wenbo Min,  
-- Chan Ka Wing, 
-- Stephen Folorunsho, 
+Min, Wenbo
+Chan, Ka Wing
+Folorunsho, Stephen I. 
 - Tamara Ebi-ukuli, 
-- Sophia Scott
+Scott, Sophia L.
 
 ## Time Keeper
-- Pui Sze Ceci Au,
-- Man View Raymond Lee,
-- Michelle Parlevliet,
-- Carrie Ng,
-- Ho Kit Daniel So,
-- Tin Wai Vita Cheung,
-- Louise Mary Anhance Abrena
+Au, Pui Sze	
+Lee, Man View Raymond	
+Parlevliet, Michelle
+Ng, Carrie K.	
+So, Ho Kit
+Cheung, Tin Wai	
+Abrena, Mary Louise Anhance	
+
+## Time Cheaters
+Younes, Bassil	
+Tan, Joan Beatrice	
+Chang, Ellis
+Ho, Kee-Fung Anthony
+Fallahi, Ramin	
+
+## Pluto
+Barker, Andrew 
+Osman, Najib	
+Singh, Shavin
+Suwal, Gajendra B.
+Sarker, Nikhil
+
+Feature tracking: VS Code somehow, but also Trello (+ github?)
+Comms channel: WhatsApp, but also Discord
