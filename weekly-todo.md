@@ -10,12 +10,16 @@
 
 ## Week 4	
 - Stand-up
-- Research solutions (1hr)
+- Research solutions
 - Complete the [Intro to Git](https://github.com/skills/introduction-to-github) course
+- Create team repositories
+- Get into Github teams
 - Create a new entry in your log file, and get it code-reviewed & merged.
+- A thing humber is making you do
 
 ## Week 5	
 - Stand-up
+- Product owner check-ins
 - Research solutions (1hr)
 - Retrospective 
 - Sprint planning (including defining the team's git workflow)
@@ -23,6 +27,7 @@
 
 ## Week 6	
 - Stand-up
+- Product owner check-ins
 - Create a new entry in your log file, and get it code-reviewed & merged.
 
 ## Week 7	
