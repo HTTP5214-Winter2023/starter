@@ -19,3 +19,5 @@ Understing Git and GitHub.
 
 Last week ...
 This week we decided our groups. I chose boilerplate. I chose to be the scrum master.We delegated roles: eg. note taker e.t.c and then decided as a group what tasks we felts we needed in order to create an HTML, CSS and JS boilerplate.
+
+ElLis is cool
