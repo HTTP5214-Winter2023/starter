@@ -17,4 +17,4 @@ Today, I'm going to figure out our group environment and have our first standup 
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 
-- noting so far just waiting for our next meeting to move forward  
+- nothing so far just waiting for our next meeting to move forward  
