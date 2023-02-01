@@ -10,12 +10,11 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 
 - Keeping notes of my pain points 
 
-## Jan 18th
+## Feb 1st
+Last time, I worked making groups and finding what project were working on
 
-Last time, I worked on figuring out pain points for the program
-
-Today, I'm going to work on learning how to use git.
+Today, I'm going to figure out our group environment and have our first standup meeting
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 
-- Actually knowing how git works
+- nothing so far just waiting for our next meeting to move forward  
