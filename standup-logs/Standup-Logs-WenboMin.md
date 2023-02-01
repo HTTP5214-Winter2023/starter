@@ -15,3 +15,10 @@ Introduce retrospective meeting
 Listing pain points
 Choose team topic
 Team forming and first meeting
+
+
+Feb 1st
+Github basic skill training
+Github pull quest training
+Team forming continue
+Create github repository for team
