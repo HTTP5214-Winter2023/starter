@@ -1,5 +1,7 @@
 # Teams
 
+## WARNING This is kept for archival purposes. The source of truth for team membership is [this Trello board](https://trello.com/b/LmkZMSIg/teams).
+
 ## Automation 2
 Patel, Harshadkumar G.
 Soni, Disa Krunal
