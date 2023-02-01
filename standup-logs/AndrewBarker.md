@@ -29,12 +29,17 @@ Gajendra Suwal - portfolio.
 
 ## Feb 1
 
--Daynal Chatha Joined group.
--get last weeks notes from Shavin.
--scrummaster Najib Osman.
--Notes Andrew Barker.
--learn about pull request and a little about reviewing a pull request.
--github repo and trello creation and update.
+Daynal Chatha Joined group.
+
+get last weeks notes from Shavin.
+
+scrummaster Najib Osman.
+
+Notes Andrew Barker.
+
+learn about pull request and a little about reviewing a pull request.
+
+github repo and trello creation and update.
 
 
 
