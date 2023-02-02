@@ -7,6 +7,8 @@
 1. Troubleshoot on MacBook
 
 ### Feb 1st, 2023 
-1. Joined team stand-up meeting
-2. Study course "Introduction to GitHub"
+1. Joined two team stand-up meetings
+2. Study course "Introduction to GitHub" and "Pull Request"
+3. Scrummaster Daniel
+4. TODO: do research on solutions and put onto GitHub branch group
 
