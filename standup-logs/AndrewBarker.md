@@ -41,6 +41,8 @@ learn about pull request and a little about reviewing a pull request.
 
 github repo and trello creation and update.
 
+Daynal will be creating an app to tally chess scores of his family
+
 Shavin creates github group repo, and each member creates their own branch/clone.
 
 
