@@ -39,8 +39,8 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 ## Feb 8th
 Last time, I worked on starting the group trello board and getting the group together.
 
-Today, I'm going to work on .
+Today, I'm going to work on running the boilerplate command that Stephen made for the powershell. i also worked in installing the proper things to be able to run the command on a mac computer, like installin the power shell. 
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 - getting in contact with others in the boilerplate group who are online
-- waiting on
+- working on the right commands to run it in the terminal.
