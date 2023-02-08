@@ -18,3 +18,11 @@ Today, I'm going to figure out our group environment and have our first standup 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 
 - nothing so far just waiting for our next meeting to move forward  
+
+## Feb 8th
+Last time we figured out stuff
+
+today ellis was scrum master and we made a kanban bored and decided what to do next
+
+things blocking me are 
+- not knowing my specific role to move forward on
