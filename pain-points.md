@@ -10,3 +10,4 @@
 - boilerplate folder structure
 - remembering syntax for loops, etc.
 - trying to keep all homework assignments etc straight...like a shared calendar for when projects are due on blackboard complete with due dates, course codes, assignment names etc. to help for better organization like a visual board, not an activity stream
+- learning github
