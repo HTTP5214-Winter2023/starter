@@ -53,3 +53,4 @@ Today Anthony was scrum master. We are discussing logic and deciding roles
 things blocking me are
 
 - Not having those rolls assigned yet and not having anything specific to work on
+- Not having our team meeting and how to move forward
