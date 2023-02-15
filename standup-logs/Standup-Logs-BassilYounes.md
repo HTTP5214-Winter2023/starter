@@ -10,7 +10,7 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 
 - Keeping notes of my pain points
 
-## 25th
+## Jan 25th
 
 Last time, I worked on figuring out my pain points
 
@@ -40,4 +40,4 @@ Today Ellis (birthday boy) was scrum master. We made a Kanban bored and decided 
 
 things blocking me are
 
-- not knowing my specific role to move forward on.
+- not knowing my specific role to move forward on
