@@ -1,8 +1,8 @@
-# Stand-up log for Beatrice Tan
+# Stand-up log for Bassil Younes
 
 ## Jan 16th
 
-Last time, I cloned the repository, create a new branch.
+Last time, I worked on learning about this course and how to work in collaborative environments 
 
 Today, I'm going to work on uploading this. I cloned the repository,  created a branch with my name, and made a pull request.
 
@@ -16,7 +16,7 @@ I have to:
 
 ## Jan 18th
 
-Last time, I worked on coming up with pain points in web development.
+Last time, I worked on figuring out pain points for the program
 
 Today, I'm going to work on learning Git.
 
