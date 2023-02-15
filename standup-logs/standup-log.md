@@ -44,3 +44,12 @@ Today, I'm going to work on running the boilerplate command that Stephen made fo
 Here's a list of stuff that's blocking me from moving ahead with my work:
 - getting in contact with others in the boilerplate group who are online
 - working on the right commands to run it in the terminal.
+
+## Feb 15th
+Last time, I worked on running the boilerplate command.
+
+Today, I'm going to work on fixing the boilerplate code and making sure it works on everyones device.  
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+- getting in contact with others in the boilerplate group who are online
+- fixing issues with the code on mac computers.
