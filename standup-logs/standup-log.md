@@ -48,7 +48,7 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 ## Feb 15th
 Last time, I worked on running the boilerplate command.
 
-Today, I'm going to work on fixing the boilerplate code and making sure it works on everyones device.  
+Today, I'm going to work on fixing the boilerplate code and making sure it works on everyones device as well as making sure we finsh all the things on our trello board, and are moved into the finshed colum. this week Kate is the scrum master. 
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 - getting in contact with others in the boilerplate group who are online
