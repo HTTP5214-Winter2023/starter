@@ -20,7 +20,7 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 ## Jan 25th
 Last time, I worked on creating a github branch.
 
-Today, I'm going to work on selecting a main pain point, and selecting a group. I went with the boilerplate group.
+Today, I'm going to work on selecting a main pain point, and selecting a group. I went with the boilerplate group. Stephen was scrum master.
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 - continueing to fix my github branch
@@ -39,7 +39,7 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 ## Feb 8th
 Last time, I worked on starting the group trello board and getting the group together.
 
-Today, I'm going to work on running the boilerplate command that Stephen made for the powershell. i also worked in installing the proper things to be able to run the command on a mac computer, like installin the power shell. 
+Today, I'm going to work on running the boilerplate command that Stephen made for the powershell. I also worked in installing the proper things to be able to run the command on a mac computer, like installin the power shell. Tamara was scrum master.
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 - getting in contact with others in the boilerplate group who are online
