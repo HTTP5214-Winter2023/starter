@@ -24,6 +24,14 @@ This week we decided our groups. I chose boilerplate. I chose to be the scrum ma
 
 Sophia Scott was the srum master. We created a repo on git for us to place all our work on there anda kanban board, breaking down each task we need to do for our assignment.
 
-## Feb 7
+## Feb 8
 Tamara was the srum master. We distributed a template script. We update the trello board on what we are doing and what we've done. 
 The goal is that everyone can edit the template an personalize it whichever way they want. 
+
+## Feb 15
+Last time, I shared my work with the group.
+Today, Kate Choi is the Srum master. 
+I did not work much on the template last week, but the goal is that everyone should have a version of theirs.
+Based on the Trello board, we have pretty much all the tasks completed. 
+
+
