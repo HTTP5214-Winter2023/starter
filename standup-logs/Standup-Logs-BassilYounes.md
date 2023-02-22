@@ -54,3 +54,13 @@ things blocking me are
 
 - Not having those rolls assigned yet and not having anything specific to work on
 - Not having our team meeting and how to move forward
+
+## Feb 22nd
+
+Last time we assigned roles to the various tasks that need to be completed (I created the base functionality of the application)
+
+Today Bea was the scrum master, we discussed how we should continue and what the next steps are
+
+Things that are blocking me
+
+- Nothing is necessarily blocking as of now its just how will continue to move through the timeline
