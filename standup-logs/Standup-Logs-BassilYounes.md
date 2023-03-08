@@ -64,3 +64,11 @@ Today Bea was the scrum master, we discussed how we should continue and what the
 Things that are blocking me
 
 - Nothing is necessarily blocking as of now its just how will continue to move through the timeline
+
+## March  8th
+Last time we did research and some testing on our respective roles, I completed my assigned task of creating the timer logic
+
+Today Ramin was the scrum master we discussed the implementation of the next steps and how we can reach that goal by week 
+
+things that are blocking me 
+- I don't have any blockers this week, we are just working on moving forward 
