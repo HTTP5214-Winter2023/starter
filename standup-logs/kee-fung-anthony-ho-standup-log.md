@@ -69,3 +69,4 @@
 - Code part of function to reset timer after it is saved
 - Discovered a bug of timer; when hours become double digits, minutes have a static zero ("0") showing up before it, i.e. 24:031:02 but this only shows up on the Status Bar and not the time saved, so it might be an issue of that part of the code
 - Decide to figure out bug at a later date
+- Pushed my code to my branch and prepare it to be potentially reviewed and merged to the main so others can continue work as well
