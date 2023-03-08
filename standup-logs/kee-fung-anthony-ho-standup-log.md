@@ -57,3 +57,15 @@
 - Beatrice will research UI design
 - Ellis will be responsible for updating the timer into an Excel sheet file
 - Rami will be responsible for the copy button and inputting a textbox to create a file name.
+
+## March 8, 2023 (Week 8)
+
+- Rami is Scrum Master
+- Identified MVP portions again, refresh everyone's minds
+- Solved issue with pushing to the repo with Simon Monday, March 6, 2023, that plagued me during the Reading Week
+- Code saving feature bit by bit
+- Ran into some issues initially but was due to typo
+- Code part of function to save time to object, then to a readable time printed out on console (for now)
+- Code part of function to reset timer after it is saved
+- Discovered a bug of timer; when hours become double digits, minutes have a static zero ("0") showing up before it, i.e. 24:031:02 but this only shows up on the Status Bar and not the time saved, so it might be an issue of that part of the code
+- Decide to figure out bug at a later date
