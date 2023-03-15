@@ -70,3 +70,14 @@
 - Discovered a bug of timer; when hours become double digits, minutes have a static zero ("0") showing up before it, i.e. 24:031:02 but this only shows up on the Status Bar and not the time saved, so it might be an issue of that part of the code
 - Decide to figure out bug at a later date
 - Pushed my code to my branch and prepare it to be potentially reviewed and merged to the main so others can continue work as well
+
+## March 15, 2023 (Week 9)
+
+- Bassil is Scrum Master again
+- Discussed briefly where we are at with our responsibilities
+- Agreed that it does not have to be Excel that launches and has the time saved
+- Agreed that it would be Google Sheets
+- Bassil and Anthony are more free so we are assisting Beatrice and Ellis respectively
+- Did some research on Google APIs, creating a Google developer profile to access
+- Updated README.md instructions on how to use timer application (added the step to "Stop and Save")
+- Merged updates with main
