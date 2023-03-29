@@ -1,4 +1,4 @@
-# Stand-up log for {your name}
+# Stand-up log for Ka Wing Chan (Wingo)
 
 ## Jan 16th
 
@@ -59,3 +59,25 @@ Today, I worked on my group and individual reports.
 
 - We will continue our work on ChatGPT API next time.
 
+## Mar 8th
+
+ Last time, we researched information about ChatGPT API.
+ 
+ Today, we keep on our research and we separated our works into two. The first one is to find ChatGPT template and integrate it into our page and the other one is to make a page using HTML/CSS. I am responsible for researching ChatGPT API.
+ 
+ - We will find the right template and integrate it next week.
+
+## Mar 15th
+
+ Last time, I was responsible for finding ChatGPT API but it turned out that the onliine resources I found were not working.
+ 
+ Today, I keep on finding more resources. If I still cannot find any, I will help my team to make an HTML/CSS page first.
+ 
+ -I will at least make the HTML/CSS page if I still cannot integrate the ChatGPT next week. The page will allow users to customize the page's color.
+ 
+ ## Mar 22th
+ 
+ Last time, I researched ChatGPT's resources and worked on our group's second plan, making the HTML/CSS page.
+ 
+ Today, I did user testing with our classmates.
+ 
