@@ -1,23 +1,10 @@
 # Stand-up log for Ka Wing Chan (Wingo)
 
-## Jan 16th
-
-Last time, I worked on {stuff you worked on}.
-
-Today, I'm going to work on {stuff you're going to work on}.
-
-Here's a list of stuff that's blocking me from moving ahead with my work:
-
-- stuff you're
-- waiting on
-
 ## Jan 18th
 
 Last time, I worked on pain points.
 
 Today, I'm going to work on mark down.
-
-Here's a list of stuff that's blocking me from moving ahead with my work:
 
 ## Jan 26th
 Last time, I worked on mark down.
