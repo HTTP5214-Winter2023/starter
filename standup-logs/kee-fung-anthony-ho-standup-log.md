@@ -81,3 +81,10 @@
 - Did some research on Google APIs, creating a Google developer profile to access
 - Updated README.md instructions on how to use timer application (added the step to "Stop and Save")
 - Merged updates with main
+
+## March 22, 2023 (Week 10)
+
+- Beatrice led as Scrum Master
+- Assisting in code research
+- Assisting in user-testing MVP of the app with Beatrice
+
