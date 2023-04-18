@@ -68,3 +68,10 @@ Today, I worked on my group and individual reports.
  
  Today, I did user testing with our classmates.
  
+ ## Mar 29th
+ 
+ Last time we did user testing with our classmates and obtained their opinions.
+ 
+ Today, I worked with my team to summarize and made conclusion to the test results.
+ 
+ -In the future, I will try adding more features on the application.
