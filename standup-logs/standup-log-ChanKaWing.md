@@ -1,4 +1,4 @@
-# Stand-up log for Ka Wing Chan (Wingo)
+# Stand-up log for Chan Ka Wing (Wingo)
 
 ## Jan 18th
 
