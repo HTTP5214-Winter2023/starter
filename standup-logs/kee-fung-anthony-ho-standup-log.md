@@ -47,3 +47,13 @@
 - Mandate researching on time-tracking apps that are already made
 - Agree on MVP of time tracking app and begin looking at time-tracking app code that exists
 - Study a bit of TypeScript
+
+## February 22, 2023 (Week 7)
+
+- Beatrice is Scrum Master
+- Identified MVP portions - aka start/stop/reset/save functions; of which start-stop was built
+- Bassil will update his code
+- I will build and update save function
+- Beatrice will research UI design
+- Ellis will be responsible for updating the timer into an Excel sheet file
+- Rami will be responsible for the copy button and inputting a textbox to create a file name.
