@@ -1,4 +1,4 @@
-# Stand-up log for Beatrice Tqn
+# Stand-up log for Beatrice Tan
 
 ## Jan 16th
 
