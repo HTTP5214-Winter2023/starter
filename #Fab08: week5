@@ -1,8 +1,0 @@
-#Fab08:
-Subject:
-figuring out how the timetrack extension will work
-Ideas: 
-where should the time data to be saved? 
-We need CSV file
-Decision:
-First need a CSV file to act as a bridge to save the time tracks on excel files.
